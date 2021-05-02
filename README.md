@@ -4,6 +4,8 @@ Read data from MCP3208 on Raspberry Pi.
 
 # Documentation
 This driver (application) communicates with the MCP3208 [1] ADC chip via SPI on the RaspberryPi. 
+- [✓] Single-ended configuration only supported
+- [x]	Differential configuration not supported
 
 
 # Requirements:
