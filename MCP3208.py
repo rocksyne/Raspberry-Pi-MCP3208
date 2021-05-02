@@ -66,7 +66,7 @@ class MCP3208:
 		self.spi.mode = self.mode
 		self.spi.bits_per_word = self.bits_per_word
 		self.spi.max_speed_hz = self.max_speed_hz
-        # -- add more configuration as desired
+        	# -- add more configuration as desired
         
 
 	
